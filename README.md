@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Liat Elizabeth Hirsh 👋
 
-<!--
-**liathirsh/liathirsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Engineer passionate about building fast, accessible, and scalable web applications.  
+I love shipping clean UIs, collaborating with teams, and leveling up product experiences through thoughtful engineering.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Freelance developer helping early-stage startups ship MVPs and improve frontend architecture  
+- ⚡ Move fast and iterate — from Figma to production in days  
+- 🧠 Deep interest in the intersection of AI and UI — building smarter, more intuitive apps  
+
+## 🧰 Tech Stack
+
+- **Frontend:** React, Next.js, TailwindCSS, TypeScript, JavaScript  
+- **Backend:** Firebase, Flask, SQL, PostgreSQL  
+- **Tools:** GitHub, Vercel, Replit  
+- **Specialties:** Fullstack apps, pixel-perfect UI, AI integrations, custom hooks & reusable components  
+
+## 🛠️ Recent Personal Projects
+
+- 📚 [`Bookshelf`](https://bookshelf.hirsh.bio) – A Goodreads clone with book forums, AI-powered recommendations, and Firebase Auth  
+
+## 🤝 Let's Connect
+
+- 💻 [Portfolio](https://lizzie.hirsh.bio)  
+- 💼 [LinkedIn](https://linkedin.com/in/hirshliat)  
+
+Thanks for stopping by! 🙌
