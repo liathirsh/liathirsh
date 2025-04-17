@@ -1,13 +1,13 @@
 ## Hi, I'm Liat Elizabeth Hirsh 👋
 
-I'm a Frontend Engineer passionate about building fast, accessible, and scalable web applications.  
+I'm a Frontend/Full-Stack Engineer passionate about building fast, accessible, and scalable web applications.  
 I love shipping clean UIs, collaborating with teams, and leveling up product experiences through thoughtful engineering.
 
 ## 💼 What I Do
 
 - 🛠️ Freelance developer helping early-stage startups ship MVPs and improve frontend architecture  
-- ⚡ Move fast and iterate — from Figma to production in days  
-- 🧠 Deep interest in the intersection of AI and UI — building smarter, more intuitive apps  
+- ⚡ Move fast and iterate: from Figma to production in days  
+- 🧠 Deep interest in the intersection of AI and UI. Building smarter, more intuitive apps  
 
 ## 🧰 Tech Stack
 
