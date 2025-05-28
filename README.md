@@ -5,16 +5,17 @@ I love shipping clean UIs, collaborating with teams, and leveling up product exp
 
 ## 💼 What I Do
 
+- 👩‍💻 Software Developer at MRGN - an eaerly-stage start-up using AI to improve restaurant experiences
 - 🛠️ Freelance developer helping early-stage startups ship MVPs and improve frontend architecture  
-- ⚡ Move fast and iterate: from Figma to production in days  
-- 🧠 Deep interest in the intersection of AI and UI. Building smarter, more intuitive apps  
-
+- ⚡ I like to move fast and iterate: from Figma to production in days  
+- 🧠 Deep interest in the intersection of AI and UI
+  
 ## 🧰 Tech Stack
 
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript, JavaScript  
 - **Backend:** Firebase, Flask, SQL, PostgreSQL  
-- **Tools:** GitHub, Vercel, Replit  
-- **Specialties:** Fullstack apps, pixel-perfect UI, AI integrations, custom hooks & reusable components  
+- **Tools:** GitHub, Vercel
+- **Specialties:** Fullstack apps, pixel-perfect UI, AI integrations
 
 ## 🛠️ Recent Personal Projects
 
