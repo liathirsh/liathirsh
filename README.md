@@ -1,11 +1,11 @@
 ## Hi, I'm Liat Elizabeth Hirsh 👋
 
-I'm a Frontend/Full-Stack Engineer passionate about building fast, accessible, and scalable web applications.  
-I love shipping clean UIs, collaborating with teams, and leveling up product experiences through thoughtful engineering.
+I'm a Frontend/Full-Stack Engineer passionate about building fast, accessible, and scalable web applications
+I love shipping clean UIs, collaborating with teams, and leveling up product experiences through thoughtful engineering
 
 ## 💼 What I Do
 
-- 👩‍💻 Software Developer at MRGN - an eaerly-stage start-up using AI to improve restaurant experiences
+- 👩‍💻 Software Developer at MRGN - an early-stage start-up using AI to improve restaurant experiences
 - 🛠️ Freelance developer helping early-stage startups ship MVPs and improve frontend architecture  
 - ⚡ I like to move fast and iterate: from Figma to production in days  
 - 🧠 Deep interest in the intersection of AI and UI
