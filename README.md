@@ -3,15 +3,10 @@
 I'm a Frontend/Full-Stack Engineer passionate about building fast, accessible, and scalable web applications
 I love shipping clean UIs, collaborating with teams, and leveling up product experiences through thoughtful engineering
 
-## 💼 What I Do
-
-- 👩‍💻 Software Developer at MRGN - an early-stage start-up using AI to improve restaurant experiences
-- 🛠️ Freelance developer helping early-stage startups ship MVPs and improve frontend architecture  
-  
 ## 🧰 Tech Stack
 
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript, JavaScript  
-- **Backend:** Firebase, Flask, SQL, PostgreSQL, Python  
+- **Backend:** Firebase Auth, Flask, SQL, PostgreSQL, Python  
 - **Tools:** GitHub, Vercel
 - **Specialties:** Fullstack apps, pixel-perfect UI, AI integrations
 
