@@ -16,7 +16,7 @@ I love shipping clean UIs, collaborating with teams, and leveling up user experi
 
 ## Let's Connect
 
--  [Portfolio](https://lizzie.hirsh.bio)  
+-  [Portfolio](https://bit.ly/4trsaF9)  
 -  [LinkedIn](https://linkedin.com/in/hirshliat)  
 
 Thanks for stopping by! 🙌
