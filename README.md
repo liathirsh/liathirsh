@@ -12,7 +12,7 @@ I love shipping clean UIs, collaborating with teams, and leveling up user experi
 
 ## Personal Projects
 
--  [`Bookshelf`](https://bookshelf.hirsh.bio) – A Goodreads clone with book forums, AI-powered recommendations, and Firebase Auth  
+-  [`Bookshelf`](https://bookshelf-neon-one.vercel.app/) – A Goodreads clone with book forums, AI-powered recommendations, and Firebase Auth  
 
 ## Let's Connect
 
