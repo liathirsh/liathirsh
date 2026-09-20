@@ -16,7 +16,6 @@ I love shipping clean UIs, collaborating with teams, and leveling up user experi
 
 ## Let's Connect
 
--  [Portfolio](portfolio-e1gjkljgc-liathirshs-projects.vercel.app)  
 -  [LinkedIn](https://linkedin.com/in/hirshelizabeth)  
 
 Thanks for stopping by! 🙌
